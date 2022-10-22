@@ -1,0 +1,30 @@
+Tipo de vialidad (de facil acceso)
+piso (accesibilidad, en que piso esta):
+Provincia
+distrito
+estacionamientos
+categoria bien
+frentes (+frentes mas vale)
+edad(a menor edad mas vale) 50 años el mas viejo, de alli en adelante es el mismo valor
+elevador (mas mas vale)
+area del terreno
+area de contruccion
+valor comercial
+
+
+tasaciones 
+costo de reposicion: calculamos el valor de la vivienda en base a cuanto valia al inicio, menos cuando se a depreciado segun su uso o caracteristicas
+renta: renta bruta en 1 año (renta  - el interes bancario) - los gastos generales
+metodo de mercado:comparar en contra de vienes similares.
+
+
+if costo de reposicion:
+calculo la propiedad a nueva (Cosas que ya estabamos haciendo) * por un factor que tuviera que ver con la edad
+
+
+if metodo de comparacion: filtrado que agarre todas las caracteristicas en valores coincidentes y sacara promedio
+
+if renta: lo que te queda de dinero * tasa de interes
+
+formulas:
+valor total del predio: valor comercial ()
