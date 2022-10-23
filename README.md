@@ -32,6 +32,11 @@ Una carpeta con el nombre de 'BBVA_Hackaton', cual estara colocada en la raiz de
 Esta carpeta debera de tener los siguientes archivos(Los cuales podras conseguir en el link que te dejamos en la parte de abajo, llamado Base de datos) : <br>
 ![image](https://user-images.githubusercontent.com/44554474/197391719-febf7efa-36e8-4b87-8c2e-08206c8577c0.png)
 
+
+### Acceso al repositorio remoto de google colab: https://colab.research.google.com/drive/14Gp2znkQBY_jwbLzmK4Mdm8tLMt5svse?usp=sharing#scrollTo=b1XzvHg4VWug
+
+### Bases de datos: (Copiar toda la carpeta): https://drive.google.com/drive/folders/1Nn5AK54euw33OobJ_-0sW8FA2MaVeseT?usp=sharing
+
 ### Comenzamos:)
 
 Podras comenzar dando click en el boton de play, toma en cuenta que al dia de hoy deberas de dar click en play en cada uno de los recuadros negros para poder ir avanzando poco a poco e ir obteniendo un resultado
@@ -40,6 +45,3 @@ Podras comenzar dando click en el boton de play, toma en cuenta que al dia de ho
 
 
 
-### Acceso al repositorio remoto de google colab: https://colab.research.google.com/drive/14Gp2znkQBY_jwbLzmK4Mdm8tLMt5svse?usp=sharing#scrollTo=b1XzvHg4VWug
-
-### Bases de datos: (Copiar toda la carpeta): https://drive.google.com/drive/folders/1Nn5AK54euw33OobJ_-0sW8FA2MaVeseT?usp=sharing
