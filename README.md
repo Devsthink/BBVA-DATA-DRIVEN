@@ -1,4 +1,4 @@
-# BBVA-DATA-DRIVEN ValoFast
+# BBVA-DATA-DRIVEN 
 Nuestro modelo de valorización de inmuebles contempla valores del mercado y características/estado de estos.
 Nos enfocamos en la facilitación y agilización de las actividades del valuador. Generando un ahorro de tiempo y menores perdidas empresariales.
 
